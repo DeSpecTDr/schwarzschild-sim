@@ -9,6 +9,7 @@ let
     scipy
     astropy
     pandas
+    photutils
     autopep8
   ]);
 in
